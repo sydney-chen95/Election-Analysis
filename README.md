@@ -50,6 +50,7 @@ The Board of Elections employee has requested additional information to complete
 Our new analysis shows that:
 
 -There were three counties and it is:
+
     -Jefferson
     
     -Denver
